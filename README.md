@@ -4,7 +4,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Saulo Rodrigues Da Silva, tenho 21 anos e sou natural do Minas Gerais. Cursando Sistemas de Informação no UNIPAM.
+Me chamo Saulo Rodrigues Da Silva, tenho 21 anos . Cursando Sistemas de Informação no UNIPAM.
 
 <p align="left"> 
     <a href="https://github.com/Saulodev20">
